@@ -16,7 +16,7 @@ Bundle 'mattn/emmet-vim'
 "Bundle 'Raimondi/delimitMate' "閉じカッコ
 Bundle 'ervandew/supertab'
 " snippets
-Bundle 'garbas/vim-snipmate'
+"Bundle 'garbas/vim-snipmate'
 Bundle 'honza/vim-snippets'
 "------ snipmate dependencies -------
 Bundle 'MarcWeber/vim-addon-mw-utils'
@@ -102,4 +102,5 @@ Bundle 'Lokaltog/vim-distinguished'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'fisadev/fisa-vim-colorscheme'
 
+Bundle 'vim-latex/vim-latex'
 filetype plugin indent on     " required!
